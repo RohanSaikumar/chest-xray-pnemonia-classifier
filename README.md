@@ -37,6 +37,7 @@ This balances stability and domain adaptation.
 <h4><b>Results<b><h4>
 <ul>
 <li><b>Test Accuracy: 82.34%<b><li>
+</ul>
 
 <h4><b>Author<b><h4>
 <b>Rohan Saikumar<b>
