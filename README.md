@@ -1,4 +1,5 @@
-<h3><b>Chest X-Ray Pneumonia Classification<b><h3>
+<h3><b>Chest X-Ray Pneumonia Classification<b></h3>
+
 This project implements a binary chest X-ray classifier (Pneumonia vs Normal) using transfer learning with a pretrained CNN.
 The emphasis is on training stability, reproducibility, and principled design choices, not just metric maximization.
  
@@ -41,3 +42,4 @@ This balances stability and domain adaptation.
 <h4><b>Author<b><h4>
 
 <b>Rohan Saikumar<b>
+
